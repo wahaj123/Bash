@@ -1,0 +1,165 @@
+1- name: Cappuccino with Milk Chocolate Cookie
+   Price: Rs 288
+
+2- name: Cappuccino with Double Chocolate Cookie
+   Price: Rs 288
+
+3- name: Latte with Milk Chocolate Cookie
+   Price: Rs 288
+
+4- name: Latte with Double Chocolate Cookie
+   Price: Rs 288
+
+5- name: McFizz Guava
+   Price: Rs 159
+
+6- name: Date Pie
+   Price: Rs 195
+
+7- name: Spicy McCrispy Deluxe - Regular Meal
+   Price: Rs 416
+
+8- name: McChicken - Regular Meal
+   Price: Rs 416
+
+9- name: Curly Fries
+   Price: Rs 239
+
+10- name: Salted Caramel Shake
+   Price: Rs 239
+
+11- name: Chicken Burger with Cheese
+   Price: Rs 257
+
+12- name: Value McArabia Chicken
+   Price: Rs 265
+
+13- name: Mini McRoyale
+   Price: Rs 265
+
+14- name: Chicken Chapli Burger
+   Price: Rs 230
+
+15- name: Double Chicken Chapli burger
+   Price: Rs 292
+
+16- name: Cheese Burger
+   Price: Rs 257
+
+17- name: Double Cheese Burger
+   Price: Rs 434
+
+18- name: Big Mac 
+   Price: Rs 504
+
+19- name: Double Big Mac
+   Price: Rs 655
+
+20- name: Quarter Pounder
+   Price: Rs 504
+
+21- name: Quarter Pounder Double
+   Price: Rs 699
+
+22- name: McRoyale 
+   Price: Rs 504
+
+23- name: Grand Chicken Spicy
+   Price: Rs 575
+
+24- name: Chicken Mac
+   Price: Rs 478
+
+25- name: McChicken 
+   Price: Rs 345
+
+26- name: McChicken Double
+   Price: Rs 504
+
+27- name: Spicy McCrispy  Deluxe
+   Price: Rs 345
+
+28- name: McCrispy Deluxe Double
+   Price: Rs 593
+
+29- name: McArabia
+   Price: Rs 540
+
+30- name: Chicken McNuggets 6 pcs
+   Price: Rs 372
+
+31- name: Chicken McNuggets 9 pcs
+   Price: Rs 504
+
+32- name: Chicken McNuggets 20 pcs
+   Price: Rs 805
+
+33- name: Filet-O-Fish 
+   Price: Rs 398
+
+34- name: Filet-O-Fish Double
+   Price: Rs 522
+
+35- name: 2pcs Spicy Chicken With Regular Drink
+   Price: Rs 438
+
+36- name: 2pcs Crispy Chicken With Regular Drink
+   Price: Rs 438
+
+37- name: 2 Pieces Crispy Chicken
+   Price: Rs 504
+
+38- name: 2 Pieces Crispy Chicken
+   Price: Rs 504
+
+39- name: 3 Pieces Spicy Chicken with Regular Fries & Drink
+   Price: Rs 681
+
+40- name: 3 Pieces Crispy Chicken
+   Price: Rs 681
+
+41- name: 9pcs Spicy Chicken Bucket Meal
+   Price: Rs 1,584
+
+42- name: 9pcs Crispy Chicken Bucket Meal
+   Price: Rs 1,584
+
+43- name: Sharebox- CHICKEN VALUE
+   Price: Rs 1,513
+
+44- name: Sharebox- CHICKEN PLUS
+   Price: Rs 1,690
+
+45- name: Happy Meal Beef Burger 
+   Price: Rs 274
+
+46- name: Happy Meal Cheese Burger
+   Price: Rs 367
+
+47- name: Happy Meal Chicken Burger 
+   Price: Rs 367
+
+48- name: Happy Meal 4pcs Chicken McNuggets
+   Price: Rs 367
+
+49- name: Date Pie
+   Price: Rs 195
+
+50- name: McFlurry Oreo
+   Price: Rs 279
+
+51- name: Cornetto McFlurry Strawberry
+   Price: Rs 345
+
+52- name: Cornetto McFlurry Chocolate
+   Price: Rs 345
+
+53- name: Hot Fudge Sundae
+   Price: Rs 239
+
+54- name: Strawberry Sundae
+   Price: Rs 239
+
+55- name: Apple Pie
+   Price: Rs 195
+

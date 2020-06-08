@@ -1,0 +1,10 @@
+?daypartId=1&catId=1
+?daypartId=1&catId=2
+?daypartId=1&catId=11
+?daypartId=1&catId=10
+?daypartId=1&catId=6
+?daypartId=1&catId=4
+?daypartId=1&catId=14
+?daypartId=1&catId=5
+?daypartId=1&catId=3
+?daypartId=1&catId=8
